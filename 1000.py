@@ -25,7 +25,7 @@ img3 = Image('L_half.JPG')
 img4 = Image('R_half.JPG')
 img5 = Image('B_half.JPG')
 
-ws.add_image(img1, 'D15')
+ws.add_image1(img1, 'D15')
 ws.add_image(img2, 'L15')
 ws.add_image(img3, 'D27')
 ws.add_image(img4, 'L27')
